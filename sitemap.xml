@@ -9,7 +9,7 @@
 <url> <loc>https://mokyoungg.github.io/posts/a-brief-history-of-typography</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mokyoungg.github.io/posts/the-birth-of-movable-type</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mokyoungg.github.io/posts/humane-typography-in-the-digital-age</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://mokyoungg.github.io/tag/design</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mokyoungg.github.io/tag/css</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mokyoungg.github.io/tag/gatsby</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mokyoungg.github.io/tag/handwriting</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mokyoungg.github.io/tag/helvetica</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -20,6 +20,8 @@
 <url> <loc>https://mokyoungg.github.io/tag/open-source</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mokyoungg.github.io/tag/typography</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mokyoungg.github.io/tag/web-development</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mokyoungg.github.io/tag/flex</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mokyoungg.github.io/category/css-display</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mokyoungg.github.io/category/design-culture</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mokyoungg.github.io/category/design-inspiration</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mokyoungg.github.io/category/typography</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
